@@ -73,7 +73,7 @@ img {
 }
 
 .section {
-  padding: 3.75rem 0 1rem;
+  padding: 1.875rem 0 1rem;
 }
 
 /*=============== STYLE FOR SMALL DEVICES ===============*/
@@ -160,6 +160,7 @@ img {
 .form__div div {
     text-align: left;
 }
+
 .form__div-one {
     margin-bottom: 1.5rem;
 }
