@@ -146,7 +146,7 @@ img {
     border: 1px solid var(--white-color);
     background-color: transparent;
     width: 95%;
-    padding: 0 0.5rem;
+    padding-left: 0.5rem;
 }
 
 .form__div input:focus {
