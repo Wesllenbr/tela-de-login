@@ -73,7 +73,7 @@ img {
 }
 
 .section {
-  padding: 3.75rem 0 2rem;
+  padding: 3.75rem 0 1rem;
 }
 
 /*=============== STYLE FOR SMALL DEVICES ===============*/
@@ -89,7 +89,7 @@ img {
     color: var(--acent-color);
     width: 4.063rem;
     height: 4.063rem;
-    margin-bottom: 2.625rem;
+    margin-bottom: 3.75rem;
 
 }
 
